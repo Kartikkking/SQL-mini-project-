@@ -2,7 +2,7 @@
 
 ### Author: Kartik Pandey
 ### System ID: 2023430411
-### Email: 2023430411@sharda.ac.in
+### Email: 2023430411.kartik@sharda.ac.in
 
 ### Overview
 This document contains SQL queries for performing fundamental operations on the HR database. The queries cover:
